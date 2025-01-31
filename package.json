@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-base64-file",
+  "name": "insomnia-base64-plugin",
   "description": "Base64 encode a file",
   "version": "1.0.1",
   "author": {
